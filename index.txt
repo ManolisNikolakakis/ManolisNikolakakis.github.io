@@ -3,22 +3,22 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
-Web developer
+Emmanouil "Manolis" Nikolakakis
+Electronics & Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+enikolak@ucsc.edu
 
 Phone
-+1 (213) 352-2795
++1 (669) 388 2679
 
 Birthday
-June 23, 1982
+January 29, 1994
 
 Location
-Sacramento, California, USA
+Santa Cruz, California, USA
 
 # navbar
 
@@ -32,10 +32,9 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am a Phd candidate in the Electrical and Computing Engineering Department of University of California, Santa Cruz. After getting my integrated MEng from the University of Glasgow in 2017, I worked for four years in industry as an embedded software and DevOps engineer in Belgium and France.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+My main interests revolve around Image Reconstruction, Denoising and Data Synthesis for Medical Imaging. 
 
 ## service
 
