@@ -1341,9 +1341,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .avatar-box img { width: 120px; }
 
-  .employers-box { border-radius: 30px; }
+  .employers-box { border-radius: 15px; }
 
-  .employers-box img { width: 30px; }
+  .employers-box img { width: 15px; }
 
   .info-content .name { margin-bottom: 15px; }
 
