@@ -578,12 +578,12 @@ main {
   scroll-snap-type: inline mandatory;
 }
 
-.testimonials-item {
+.supervisor-item {
   min-width: 100%;
   scroll-snap-align: center;
 }
 
-.testimonials-avatar-box {
+.supervisor-avatar-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -593,9 +593,9 @@ main {
   box-shadow: var(--shadow-1);
 }
 
-.testimonials-item-title { margin-bottom: 7px; }
+.supervisor-item-title { margin-bottom: 7px; }
 
-.testimonials-text {
+.supervisor-text {
   color: var(--light-gray);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
